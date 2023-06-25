@@ -3,8 +3,6 @@ layout: post
 title: My Experience Reading "The Structure and Interpretation of Computer Programs"
 ---
 
-Today's date: 2023-06-25
-
 I recently started reading the book "The Structure and Interpretation of Computer Programs," and I wanted to share my initial impressions and the significance of this book in the world of computer science.
 
 ![The Structure and Interpretation of Computer Programs](https://res.cloudinary.com/dypuafyyu/image/upload/f_auto,q_auto/v1/blog/uhrmcnxkyhfcnrw2mdfv)
