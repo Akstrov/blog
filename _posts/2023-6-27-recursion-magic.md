@@ -83,9 +83,7 @@ The formula for improving our guess slightly adjusts:
 newGuess = ((2 * guess) + (x / (guess * guess))) / 3
 ```
 
-Since we have already explained the algorithmic magic of recursion in the square root calculation
-
-, implementing the cube root calculation becomes straightforward. We can utilize a similar structure with a few adjustments.
+Since we have already explained the algorithmic magic of recursion in the square root calculation, implementing the cube root calculation becomes straightforward. We can utilize a similar structure with a few adjustments.
 
 ```scheme
 (define (cbrt x)
