@@ -1,4 +1,7 @@
-# Unveiling the Magic of Recursion in Computer Science
+---
+layout: post
+title: Unveiling the Magic of Recursion in Computer Science
+---
 
 ![Recursion Magic](https://res.cloudinary.com/dypuafyyu/image/upload/f_auto,q_auto/v1/blog/x0ai6wwfueuvlhkxpifo)
 
