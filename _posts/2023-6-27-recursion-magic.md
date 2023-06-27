@@ -3,8 +3,6 @@ layout: post
 title: Unveiling the Magic of Recursion in Computer Science
 ---
 
-![Recursion Magic](https://res.cloudinary.com/dypuafyyu/image/upload/f_auto,q_auto/v1/blog/x0ai6wwfueuvlhkxpifo)
-
 Procedures, just like mathematical functions, specify a value that is determined by some parameters.
 
 But there is a difference.
@@ -20,6 +18,8 @@ But it does not tell us how to get the square root.
 So the difference is: mathematical functions are concerned with declarative descriptions (What is); In Computer Science, we are concerned with imperative descriptions (How To).
 
 So how do you compute the square root? We can use Newton's method of successive approximations.
+
+![Recursion Magic](https://res.cloudinary.com/dypuafyyu/image/upload/f_auto,q_auto/v1/blog/x0ai6wwfueuvlhkxpifo)
 
 ## The Enchanting Square Root Calculation
 
