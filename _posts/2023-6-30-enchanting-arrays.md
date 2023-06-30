@@ -45,12 +45,12 @@ By applying these rules recursively, the algorithm explores various crystal comb
 
 Let's consider our sorcerer's quest for a low defensive array that requires 12 crystals. By applying the algorithm, we can uncover the enchanting possibilities:
 
-| Crystals   | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  | 12  |
-| ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [1]        | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   | 1   |
-| [1,2]      | 1   | 1   | 2   | 2   | 3   | 3   | 4   | 4   | 5   | 5   | 6   | 6   | 7   |
-| [1,2,5]    | 1   | 1   | 2   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 10  | 11  | 13  |
-| [1,2,5,10] | 1   | 1   | 2   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 11  | 12  | 15  |
+|   Crystals |   0 |   1 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |   9 |  10 |  11 |  12 |
+| ---------: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+|        [1] |   1 |   1 |   1 |   1 |   1 |   1 |   1 |   1 |   1 |   1 |   1 |   1 |   1 |
+|      [1,2] |   1 |   1 |   2 |   2 |   3 |   3 |   4 |   4 |   5 |   5 |   6 |   6 |   7 |
+|    [1,2,5] |   1 |   1 |   2 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |  10 |  11 |  13 |
+| [1,2,5,10] |   1 |   1 |   2 |   2 |   3 |   4 |   5 |   6 |   7 |   8 |  11 |  12 |  15 |
 
 These enchanting possibilities showcase the various combinations we can create with different crystal denominations, offering the sorcerer a range of options to construct unique arrays.
 
