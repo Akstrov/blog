@@ -44,14 +44,32 @@ q:before, q:after {
 }
 table {
 	border-collapse: collapse;
-	border-spacing: 0;
-	color: #333;
-  	background: white;
-  	border: 1px solid grey;
-  	font-size: 12pt;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
-table,  td,  th {
-	border: 1px solid black;
+thead tr {
+    background-color: #ffffff;
+    text-align: left;
+}
+th,td {
+    padding: 12px 15px;
+}
+tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+tbody tr:last-of-type {
+    border-bottom: 2px solid #003098;
+}
+tbody tr.active-row {
+    font-weight: bold;
+    color: #003098;
 }
 
 // Apply a natural box layout model to all elements
