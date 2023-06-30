@@ -13,10 +13,10 @@ In the realm of sorcery, a powerful sorcerer seeks to create intricate magical a
 
 Let us explore the types of crystals available:
 
--The Lesser Crystal: This is the basic unit of magical power.
--The Low Crystal: It is worth 2 lesser crystals, amplifying the magic.
--The Medium Crystal: Its value is equivalent to 5 lesser crystals, offering a greater surge of mystical energy.
--The High Crystal: With a value of 10 lesser crystals, it channels potent magical forces.
+- The Lesser Crystal: This is the basic unit of magical power.
+- The Low Crystal: It is worth 2 lesser crystals, amplifying the magic.
+- The Medium Crystal: Its value is equivalent to 5 lesser crystals, offering a greater surge of mystical energy.
+- The High Crystal: With a value of 10 lesser crystals, it channels potent magical forces.
 
 With these dazzling crystals at our disposal, we are ready to embark on our journey of counting possibilities and weaving intricate arrays.
 
@@ -54,7 +54,7 @@ Let's consider our sorcerer's quest for a low defensive array that requires 12 c
 
 These enchanting possibilities showcase the various combinations we can create with different crystal denominations, offering the sorcerer a range of options to construct unique arrays.
 
-For the Low Defense Array our sorcerer have 12 unique ways to assemble different crystals.
+For the Low Defense Array our sorcerer have 15 unique ways to assemble different crystals.
 
 For the Medium Defense Array that requires 40 lesser crystals, our sorcerer has 195 unique ways to assemble different crystals.
 
