@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unleashing the Power of Recursive Algorithms: Enchanting Arrays
+title: 'Unleashing the Power of Recursive Algorithms: Enchanting Arrays'
 ---
 
 Welcome to _A Sorcerer's Journey_, where we explore the captivating world of computer science and unravel the enchanting possibilities that lie within the realm of algorithms. Join us as we embark on a quest to discover the magical art of recursion and weave intricate arrays with mystical crystals.
